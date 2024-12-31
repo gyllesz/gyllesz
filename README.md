@@ -1,6 +1,5 @@
 
-<img alt="top langs" algin="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyllesz&layout=compact"/>
-
+<img alt="top langs" algin="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyllesz&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
 <!--
 **gyllesz/gyllesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
